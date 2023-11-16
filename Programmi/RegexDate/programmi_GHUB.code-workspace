@@ -1,0 +1,11 @@
+{
+     "version": "0.2.0",
+	"configuration":[
+		{
+			"type": "java",
+			"name": "Launch Current File",
+			"request": "Launch",
+			"mainClass": "${fileBasename}"
+		}
+	]
+}
